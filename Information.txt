@@ -4,3 +4,5 @@ Hi, This is the release note information details.
 2) Java wrapping code 
 3) Try to upload java application code on github.
 4) Added spring boot jpa file dependency.
+5) Spring SQL
+6) Spring Thymleaf
