@@ -1,0 +1,5 @@
+Hi, This is the release note information details.
+
+1) Added new text files.
+2) Java wrapping code 
+3) Try to upload java application code on github.
